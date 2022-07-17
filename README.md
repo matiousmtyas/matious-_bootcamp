@@ -1,2 +1,2 @@
-# matyousmtyas51-bootcamp
+# matyousmtyas51
 this is first repo on bootcamp
